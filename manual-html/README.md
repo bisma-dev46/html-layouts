@@ -23,5 +23,5 @@ This assignment helped me understand forms, inputs, buttons, images, lists, and 
 
 Video Link
 
-https://youtube.com/shorts/XRttkMEU9RQ?si=3TqMsfi1eSkcE1fN
-https://youtu.be/3I9FEKUglO8?si=55EYtupkLWrahW6k
+[Click here to watch the video](https://youtu.be/3I9FEKUg108?si=55EYtupkLWrahW6k)
+ [Click here to watch the video](https://youtube.com/shorts/XRttkMEU9RQ?si=3TqMsfi1eSkcE1fN)
